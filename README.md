@@ -4,7 +4,7 @@ This project implements an **emotion-aware chatbot** powered by Retrieval-Augmen
 
 ## Features
 
-- **Emotion Detection:** Analyzes user input to identify emotions (e.g., happy, sad, angry).
+- **Emotion Detection:** Analyzes user input to identify emotions (e.g., happy, sad, angry,nervous etc..).
 - **RAG-based Responses:** Uses a retrieval system to fetch relevant information and a generative model to craft responses.
 - **Context Awareness:** Maintains conversation context for coherent interactions.
 
